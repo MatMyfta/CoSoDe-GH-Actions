@@ -1,1 +1,1 @@
-"# CoSoDe-GH-Actions" 
+# GitHub Actions
